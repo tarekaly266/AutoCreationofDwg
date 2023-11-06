@@ -1,0 +1,4 @@
+C:\Users\TARGET\Desktop\API\wpf github\obj\Debug\AutoCreationofDwg.csproj.AssemblyReference.cache
+C:\Users\TARGET\Desktop\API\wpf github\obj\Debug\VIEW\MyUI.g.cs
+C:\Users\TARGET\Desktop\API\wpf github\obj\Debug\AutoCreationofDwg_MarkupCompile.cache
+C:\Users\TARGET\Desktop\API\wpf github\obj\Debug\AutoCreationofDwg_MarkupCompile.lref
